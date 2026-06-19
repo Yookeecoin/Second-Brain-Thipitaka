@@ -1,0 +1,10 @@
+{
+  "id": "buddhist-knowledge-galaxy",
+  "name": "Buddhist Knowledge Galaxy",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "A glowing radial knowledge galaxy for Buddhist studies and large Obsidian vaults.",
+  "author": "Buddhist Knowledge Galaxy",
+  "authorUrl": "https://obsidian.md",
+  "isDesktopOnly": false
+}

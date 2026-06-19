@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -nE \"^\\\\s+\\(๙|๑๐|๑|๒|๓\\)\\\\. .*สูตร|จบ.*สูตรที่|วรรค$|จบ.*วรรค\" /Users/wisitlee/second-brain/raw/tipitaka/thaimm/vol-19.md)",
+      "Bash(grep -nE \"^\\\\s+\\(๑|๒|๓|๔|๕|๖\\)\\\\. .*สูตร|วรรค$|จบ.*สูตรที่\" vol-20.md)"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+/* Obsidian Graph View — NEON TOKYO SIGNS
+   Saturated electric colors with strong glow halo.
+   Apply: Settings -> Appearance -> CSS snippets -> toggle "graph-cinematic" on
+
+   Palette pairs with graph.json:
+     buddha    bright yellow-white  #FFFCC0
+     suttas    electric cyan        #00D9FF
+     dhamma    neon lime-green      #B4FF00
+     persons   hot pink/magenta     #FF2D87
+     places    neon orange          #FF6B2D
+     sources   electric purple      #B026FF
+*/
+
+/* === BG: very dark navy with subtle blue glow from edges === */
+.workspace-leaf-content[data-type="graph"] .view-content,
+.workspace-leaf-content[data-type="localgraph"] .view-content {
+  background:
+    radial-gradient(circle at 15% 85%, rgba(0, 217, 255, 0.07) 0%, transparent 40%),
+    radial-gradient(circle at 85% 15%, rgba(255, 45, 135, 0.07) 0%, transparent 40%),
+    radial-gradient(ellipse at center, #050818 0%, #000003 100%) !important;
+}
+
+/* === Subtle glow on the canvas (เบาลง) === */
+.workspace-leaf-content[data-type="graph"] canvas,
+.workspace-leaf-content[data-type="localgraph"] canvas {
+  background: transparent !important;
+  filter:
+    drop-shadow(0 0 1px rgba(255, 255, 255, 0.5))
+    drop-shadow(0 0 3px rgba(120, 200, 240, 0.2));
+}
+
+/* === Graph CSS color variables === */
+.theme-dark .graph-view.color-circle       { color: #FFFFFF; }
+.theme-dark .graph-view.color-line         { color: #1a3a6a; }
+.theme-dark .graph-view.color-fill-tag     { color: #B4FF00; }
+.theme-dark .graph-view.color-fill-attachment { color: #FF6B2D; }
+.theme-dark .graph-view.color-text         { color: #E8F5FF; }
+.theme-dark .graph-view.color-fill-highlight,
+.theme-dark .graph-view.color-line-highlight,
+.theme-dark .graph-view.color-arrow        { color: #FFFCC0; }
+.theme-dark .graph-view.color-fill-unresolved { color: #1a1a3a; }
+
+/* === Control panel chrome — glass neon === */
+.graph-controls {
+  background: rgba(3, 6, 18, 0.82) !important;
+  border: 1px solid rgba(0, 217, 255, 0.35) !important;
+  backdrop-filter: blur(14px);
+  box-shadow:
+    0 0 30px rgba(0, 217, 255, 0.18),
+    0 0 20px rgba(255, 45, 135, 0.12);
+}
+.graph-controls .tree-item-self { color: #E8F5FF !important; }
+.graph-controls input,
+.graph-controls .search-input-container input {
+  background: rgba(0, 0, 0, 0.6) !important;
+  color: #00D9FF !important;
+  border-color: rgba(0, 217, 255, 0.4) !important;
+}
+.graph-controls input:focus {
+  border-color: #00D9FF !important;
+  box-shadow: 0 0 10px rgba(0, 217, 255, 0.6);
+}

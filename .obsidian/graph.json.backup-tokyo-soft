@@ -1,0 +1,47 @@
+{
+  "collapse-filter": false,
+  "search": "-path:raw",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:buddha",
+      "color": { "a": 1, "rgb": 16774080 }
+    },
+    {
+      "query": "path:suttas",
+      "color": { "a": 1, "rgb": 6739957 }
+    },
+    {
+      "query": "path:dhamma",
+      "color": { "a": 1, "rgb": 13167206 }
+    },
+    {
+      "query": "path:persons",
+      "color": { "a": 1, "rgb": 16086440 }
+    },
+    {
+      "query": "path:places",
+      "color": { "a": 1, "rgb": 16096358 }
+    },
+    {
+      "query": "path:sources",
+      "color": { "a": 1, "rgb": 11040736 }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.2895935170879036,
+  "close": false
+}

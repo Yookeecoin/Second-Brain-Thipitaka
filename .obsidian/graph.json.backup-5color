@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:suttas",
+      "color": {
+        "a": 1,
+        "rgb": 5827065
+      }
+    },
+    {
+      "query": "path:dhamma",
+      "color": {
+        "a": 1,
+        "rgb": 16580398
+      }
+    },
+    {
+      "query": "path:persons",
+      "color": {
+        "a": 1,
+        "rgb": 6291266
+      }
+    },
+    {
+      "query": "path:places",
+      "color": {
+        "a": 1,
+        "rgb": 15903347
+      }
+    },
+    {
+      "query": "path:sources",
+      "color": {
+        "a": 1,
+        "rgb": 9661439
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.4,
+  "lineSizeMultiplier": 0.7,
+  "collapse-forces": false,
+  "centerStrength": 0.45,
+  "repelStrength": 12,
+  "linkStrength": 0.9,
+  "linkDistance": 220,
+  "scale": 0.2572814501463124,
+  "close": true
+}
