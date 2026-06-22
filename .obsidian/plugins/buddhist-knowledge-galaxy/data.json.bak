@@ -1,0 +1,32 @@
+{
+  "nodeSize": 7,
+  "edgeWidth": 1.2,
+  "glowIntensity": 0.85,
+  "animationSpeed": 0.55,
+  "colors": {
+    "root": "#39ff88",
+    "sutta": "#00e5ff",
+    "doctrine": "#ff35f2",
+    "person": "#a3ff12",
+    "place": "#ff9f1c",
+    "event": "#ffe45e",
+    "concept": "#9b5cff"
+  },
+  "backgroundStyle": "deep-space",
+  "rootNote": "",
+  "autoRefresh": true,
+  "maxDepth": 4,
+  "hideIsolatedNodes": false,
+  "enabledTypes": {
+    "root": true,
+    "sutta": true,
+    "doctrine": true,
+    "person": true,
+    "place": true,
+    "event": true,
+    "concept": true
+  },
+  "tagFilter": "",
+  "folderFilter": "",
+  "dateFilter": ""
+}

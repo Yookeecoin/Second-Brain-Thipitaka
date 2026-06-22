@@ -91,7 +91,7 @@
         "query": "file:buddha",
         "color": {
           "a": 1,
-          "rgb": 16774080
+          "rgb": 16436224
         }
       },
       {
@@ -133,14 +133,14 @@
     "collapse-display": false,
     "showArrow": false,
     "textFadeMultiplier": 0,
-    "nodeSizeMultiplier": 1,
+    "nodeSizeMultiplier": 1.325,
     "lineSizeMultiplier": 1,
     "collapse-forces": false,
-    "centerStrength": 0.518713248970312,
-    "repelStrength": 10,
-    "linkStrength": 1,
-    "linkDistance": 250,
-    "scale": 0.28166419471538073,
+    "centerStrength": 0.366232638888889,
+    "repelStrength": 6.44444444444444,
+    "linkStrength": 0,
+    "linkDistance": 258,
+    "scale": 0.1484397184934496,
     "close": true
   },
   "openInNewTab": false,

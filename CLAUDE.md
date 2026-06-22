@@ -28,12 +28,14 @@ second-brain/
     index.md         ← สารบัญทุกหน้า (content-oriented)
     log.md           ← บันทึกเหตุการณ์ตามเวลา (append-only)
     sources/         ← หน้าสรุปของแต่ละแหล่งที่ ingest เข้ามา
-    suttas/          ← หน้าพระสูตรแต่ละสูตร
-    persons/         ← บุคคล (พระพุทธเจ้า, พระสาวก, บุคคลในเรื่อง)
-    places/          ← สถานที่ (เมือง, วัด, แคว้น)
-    dhamma/          ← หลักธรรม / concept (อริยสัจ 4, ปฏิจจสมุปบาท, ขันธ์ 5)
+    suttas/          ← หน้าพระสูตร — แยกย่อยตามนิกาย: digha-nikaya/ , majjhima-nikaya/
+    persons/         ← บุคคล — แยกย่อย: bhikkhu-sangha/ , brahmana-samana/ , khattiya-gahapati/ , deva-mara/ , buddha-bodhisatta/
+    places/          ← สถานที่ — แยกย่อย: nakhon-nikhom/ , mahajanapada/ (แคว้น) , arama-vana/ (อาราม-ป่า-เขา)
+    dhamma/          ← หลักธรรม — แยกย่อย: core-truth/ , practice-bhavana/ , sila-kamma/ , puggala-cosmos/ , ditthi-views/
     terms/           ← อภิธานศัพท์บาลี (glossary ศัพท์เดี่ยว)
 ```
+
+หมายเหตุ: หน้าใหม่ให้สร้างลงโฟลเดอร์ย่อยให้ตรงหมวด (เลือกหมวดที่ใกล้ที่สุด) — `[[wikilink]]` อ้างด้วยชื่อไฟล์ ไม่ต้องใส่ path และห้ามตั้งชื่อไฟล์ซ้ำข้ามโฟลเดอร์
 
 หมายเหตุโครงพระไตรปิฎก (ใช้จัดหมวดในใจ): แบ่งเป็น 3 ปิฎก
 - **วินัยปิฎก** (Vinaya) — สิกขาบท ระเบียบสงฆ์

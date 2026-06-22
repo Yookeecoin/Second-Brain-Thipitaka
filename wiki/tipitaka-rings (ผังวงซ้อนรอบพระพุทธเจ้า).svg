@@ -1,0 +1,105 @@
+<svg viewBox="0 0 760 880" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+<title>ผังพระไตรปิฎก วงซ้อนรอบพระพุทธเจ้า</title>
+<desc>พระพุทธเจ้าเป็นศูนย์กลาง ล้อมด้วยบุคคล สถานที่ และพระธรรมตามลำดับ</desc>
+<rect x="0" y="0" width="760" height="880" fill="#0a0e1a"/>
+<text x="380" y="36" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">ผังพระไตรปิฎก — วงซ้อนรอบพระพุทธเจ้า</text>
+
+<circle cx="380" cy="400" r="318" fill="#ff35f2" opacity="0.10"/>
+<circle cx="380" cy="400" r="232" fill="#ff9f1c" opacity="0.10"/>
+<circle cx="380" cy="400" r="150" fill="#a3ff12" opacity="0.10"/>
+<circle cx="380" cy="400" r="318" fill="none" stroke="#ff35f2" stroke-opacity="0.35"/>
+<circle cx="380" cy="400" r="232" fill="none" stroke="#ff9f1c" stroke-opacity="0.35"/>
+<circle cx="380" cy="400" r="150" fill="none" stroke="#a3ff12" stroke-opacity="0.35"/>
+
+<text x="380" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#ff35f2">พระธรรม · 81 หน้า</text>
+<text x="380" y="186" text-anchor="middle" font-size="13" font-weight="700" fill="#ff9f1c">สถานที่ · 40 หน้า</text>
+<text x="380" y="268" text-anchor="middle" font-size="13" font-weight="700" fill="#a3ff12">บุคคล · 127 หน้า</text>
+
+<circle cx="407.7" cy="136.5" r="6" fill="#ff35f2"/>
+<text x="408.6" y="131.4" text-anchor="middle" font-size="11" fill="#e8eef2">อริยสัจ 4</text>
+<circle cx="519.3" cy="174.6" r="6" fill="#ff35f2"/>
+<text x="530.3" y="170.8" text-anchor="start" font-size="11" fill="#e8eef2">อริยมรรค 8</text>
+<circle cx="603.3" cy="257.3" r="6" fill="#ff35f2"/>
+<text x="614.3" y="256.3" text-anchor="start" font-size="11" fill="#e8eef2">ขันธ์ 5</text>
+<circle cx="643.1" cy="368.4" r="6" fill="#ff35f2"/>
+<text x="654.1" y="371.1" text-anchor="start" font-size="11" fill="#e8eef2">ปฏิจจสมุปบาท</text>
+<circle cx="630.8" cy="485.7" r="6" fill="#ff35f2"/>
+<text x="641.8" y="492.4" text-anchor="start" font-size="11" fill="#e8eef2">สติปัฏฐาน 4</text>
+<circle cx="568.8" cy="586.0" r="6" fill="#ff35f2"/>
+<text x="579.8" y="596.1" text-anchor="start" font-size="11" fill="#e8eef2">ฌาน 4</text>
+<circle cx="469.4" cy="649.5" r="6" fill="#ff35f2"/>
+<text x="472.4" y="661.8" text-anchor="middle" font-size="11" fill="#e8eef2">กรรมบถ 10</text>
+<circle cx="352.3" cy="663.5" r="6" fill="#ff35f2"/>
+<text x="351.4" y="676.3" text-anchor="middle" font-size="11" fill="#e8eef2">ศีล 5</text>
+<circle cx="240.7" cy="625.4" r="6" fill="#ff35f2"/>
+<text x="229.7" y="636.9" text-anchor="end" font-size="11" fill="#e8eef2">สาราณียธรรม 6</text>
+<circle cx="156.7" cy="542.7" r="6" fill="#ff35f2"/>
+<text x="145.7" y="551.4" text-anchor="end" font-size="11" fill="#e8eef2">ทิศ 6</text>
+<circle cx="116.9" cy="431.6" r="6" fill="#ff35f2"/>
+<text x="105.9" y="436.6" text-anchor="end" font-size="11" fill="#e8eef2">อบายมุข 6</text>
+<circle cx="129.2" cy="314.3" r="6" fill="#ff35f2"/>
+<text x="118.2" y="315.3" text-anchor="end" font-size="11" fill="#e8eef2">กรรม 3</text>
+<circle cx="191.2" cy="214.0" r="6" fill="#ff35f2"/>
+<text x="180.2" y="211.6" text-anchor="end" font-size="11" fill="#e8eef2">อธิกรณสมถะ 7</text>
+<circle cx="290.6" cy="150.5" r="6" fill="#ff35f2"/>
+<text x="287.6" y="145.9" text-anchor="middle" font-size="11" fill="#e8eef2">ภัทเทกรัตตะ</text>
+<circle cx="426.0" cy="215.6" r="6" fill="#ff9f1c"/>
+<text x="428.1" y="210.8" text-anchor="middle" font-size="11" fill="#e8eef2">เชตวัน</text>
+<circle cx="512.0" cy="263.3" r="6" fill="#ff9f1c"/>
+<text x="523.0" y="260.7" text-anchor="start" font-size="11" fill="#e8eef2">เวฬุวัน</text>
+<circle cx="562.6" cy="347.6" r="6" fill="#ff9f1c"/>
+<text x="573.6" y="349.0" text-anchor="start" font-size="11" fill="#e8eef2">กบิลพัสดุ์</text>
+<circle cx="564.4" cy="446.0" r="6" fill="#ff9f1c"/>
+<text x="575.4" y="452.0" text-anchor="start" font-size="11" fill="#e8eef2">นิโครธาราม</text>
+<circle cx="516.7" cy="532.0" r="6" fill="#ff9f1c"/>
+<text x="527.7" y="542.1" text-anchor="start" font-size="11" fill="#e8eef2">อิสิปตนมฤคทายวัน</text>
+<circle cx="432.4" cy="582.6" r="6" fill="#ff9f1c"/>
+<text x="434.9" y="595.1" text-anchor="middle" font-size="11" fill="#e8eef2">โกสัมพี</text>
+<circle cx="334.0" cy="584.4" r="6" fill="#ff9f1c"/>
+<text x="331.9" y="596.9" text-anchor="middle" font-size="11" fill="#e8eef2">เวสาลี</text>
+<circle cx="248.0" cy="536.7" r="6" fill="#ff9f1c"/>
+<text x="237.0" y="547.0" text-anchor="end" font-size="11" fill="#e8eef2">คิชฌกูฏ</text>
+<circle cx="197.4" cy="452.4" r="6" fill="#ff9f1c"/>
+<text x="186.4" y="458.7" text-anchor="end" font-size="11" fill="#e8eef2">มคธ</text>
+<circle cx="195.6" cy="354.0" r="6" fill="#ff9f1c"/>
+<text x="184.6" y="355.7" text-anchor="end" font-size="11" fill="#e8eef2">โกศล</text>
+<circle cx="243.3" cy="268.0" r="6" fill="#ff9f1c"/>
+<text x="232.3" y="265.6" text-anchor="end" font-size="11" fill="#e8eef2">วัชชี</text>
+<circle cx="327.6" cy="217.4" r="6" fill="#ff9f1c"/>
+<text x="325.1" y="212.6" text-anchor="middle" font-size="11" fill="#e8eef2">อังคะ</text>
+<circle cx="380.0" cy="292.0" r="6" fill="#a3ff12"/>
+<text x="380.0" y="286.9" text-anchor="middle" font-size="11" fill="#e8eef2">พระสารีบุตร</text>
+<circle cx="434.0" cy="306.5" r="6" fill="#a3ff12"/>
+<text x="445.0" y="302.5" text-anchor="start" font-size="11" fill="#e8eef2">พระอานนท์</text>
+<circle cx="473.5" cy="346.0" r="6" fill="#a3ff12"/>
+<text x="484.5" y="345.4" text-anchor="start" font-size="11" fill="#e8eef2">พระมหาโมคคัลลานะ</text>
+<circle cx="488.0" cy="400.0" r="6" fill="#a3ff12"/>
+<text x="499.0" y="403.9" text-anchor="start" font-size="11" fill="#e8eef2">พระมหากัจจานะ</text>
+<circle cx="473.5" cy="454.0" r="6" fill="#a3ff12"/>
+<text x="484.5" y="462.4" text-anchor="start" font-size="11" fill="#e8eef2">พระอนุรุทธะ</text>
+<circle cx="434.0" cy="493.5" r="6" fill="#a3ff12"/>
+<text x="445.0" y="505.2" text-anchor="start" font-size="11" fill="#e8eef2">พระราหุล</text>
+<circle cx="380.0" cy="508.0" r="6" fill="#a3ff12"/>
+<text x="380.0" y="520.9" text-anchor="middle" font-size="11" fill="#e8eef2">พระเจ้าพิมพิสาร</text>
+<circle cx="326.0" cy="493.5" r="6" fill="#a3ff12"/>
+<text x="315.0" y="505.2" text-anchor="end" font-size="11" fill="#e8eef2">พระเจ้าอชาตศัตรู</text>
+<circle cx="286.5" cy="454.0" r="6" fill="#a3ff12"/>
+<text x="275.5" y="462.4" text-anchor="end" font-size="11" fill="#e8eef2">อนาถบิณฑิกเศรษฐี</text>
+<circle cx="272.0" cy="400.0" r="6" fill="#a3ff12"/>
+<text x="261.0" y="403.9" text-anchor="end" font-size="11" fill="#e8eef2">หมอชีวกโกมารภัจ</text>
+<circle cx="286.5" cy="346.0" r="6" fill="#a3ff12"/>
+<text x="275.5" y="345.4" text-anchor="end" font-size="11" fill="#e8eef2">พระนางมัลลิกา</text>
+<circle cx="326.0" cy="306.5" r="6" fill="#a3ff12"/>
+<text x="315.0" y="302.5" text-anchor="end" font-size="11" fill="#e8eef2">วิสาขอุบาสก</text>
+
+<circle cx="380" cy="400" r="46" fill="#39ff88"/>
+<text x="380" y="398" text-anchor="middle" font-size="14" font-weight="700" fill="#08220f">พระ</text>
+<text x="380" y="415" text-anchor="middle" font-size="14" font-weight="700" fill="#08220f">พุทธเจ้า</text>
+
+<g transform="translate(150,855)" font-size="12">
+<circle cx="0" cy="0" r="7" fill="#39ff88"/><text x="12" y="4" fill="#e8eef2">ศูนย์กลาง</text>
+<circle cx="110" cy="0" r="7" fill="#a3ff12"/><text x="122" y="4" fill="#e8eef2">บุคคล</text>
+<circle cx="210" cy="0" r="7" fill="#ff9f1c"/><text x="222" y="4" fill="#e8eef2">สถานที่</text>
+<circle cx="320" cy="0" r="7" fill="#ff35f2"/><text x="332" y="4" fill="#e8eef2">พระธรรม</text>
+</g>
+</svg>

@@ -21,7 +21,7 @@
     {
       "filter": "class:file -class:image",
       "color": "rgb(179, 179, 179)",
-      "shape": "ellipse",
+      "shape": "diamond",
       "icon": {
         "name": "No icon",
         "path": "",
