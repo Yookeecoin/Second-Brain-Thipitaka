@@ -406,3 +406,4 @@ redlink: bodhipakkhiya-37, avijja, anupubbasikkha, gopaka-moggallana, samanuddes
 ## [2026-06-23] ingest | เถรคาถา (เล่ม 8, vol-50–53, 264 เถระ) + เถรีคาถา (เล่ม 9, vol-54, 73 เถรี) — split-model 2 หน้า; คาถาแสดงการบรรลุ จัดตามนิบาต. Opus แก้ slug maha-moggallana (diacritic)
 ## [2026-06-23] ingest | ชาดก (เล่ม 10, vol-55–64, 547 ชาดก) + ทศชาติ (มหานิบาต) — split-model 2 หน้า; Sonnet verify ทศชาติ vol-63–64 (#8=มหานารทกัสสป). + สร้าง parami-10. Opus แก้ slug niraya + typo vessantara
 ## [2026-06-23] ingest | นิทเทส(11,vol-65–67) + ปฏิสัมภิทามรรค(12,vol-68–69) + อปทาน(13,vol-70–72) + พุทธวงศ์(14,vol-73) — split-model 4 หน้า. 🎉 จบขุททกนิกาย (14 คัมภีร์ใน raw; จริยาปิฎกไม่มีในชุดนี้) = จบพระสุตตันตปิฎกครบ 5 นิกาย!
+## [2026-06-23] lint | เก็บ redlink หลังจบขุททก: สร้าง dhamma(พระธรรม)/asubha/lobha + normalize dhamma(ธรรม)→(พระธรรม), vipassana→samatha-vipassana. redlink ≥4: 5→1 (เหลือ vepacitti-sutta-page = สูตรย่อย), รวม 333→328
