@@ -137,10 +137,10 @@
     "lineSizeMultiplier": 1,
     "collapse-forces": false,
     "centerStrength": 0.366232638888889,
-    "repelStrength": 6.44444444444444,
+    "repelStrength": 7.23784722222222,
     "linkStrength": 0,
-    "linkDistance": 258,
-    "scale": 0.1484397184934496,
+    "linkDistance": 223,
+    "scale": 0.10017809516525249,
     "close": true
   },
   "openInNewTab": false,
