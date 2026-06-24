@@ -429,3 +429,13 @@ redlink: bodhipakkhiya-37, avijja, anupubbasikkha, gopaka-moggallana, samanuddes
 ## [2026-06-24] lint | กลุ่ม F: สร้าง concept redlink 8 หน้า (suttanta-pitaka/abhidhamma/parinibbana/kama/yoniso-manasikara/kayagatasati/anussati-10/bala-5)
 ## [2026-06-24] lint | กลุ่ม B: ลบไฟล์ขยะ 0-byte ที่ root 10 ไฟล์ (shadow หน้าจริง/redlink) + repoint kosala-samyutta→ปฐมวรรค. sammappadhana-4 ลิงก์เด้งไปหน้าจริงใน dhamma แล้ว
 ## [2026-06-24] lint | กลุ่ม D: เติม index 34 หน้าที่ขาด (persons/dhamma/vinaya/places) → หน้าเนื้อหาทุกหน้าอยู่ใน index ครบ (missing=0)
+
+## [2026-06-24] ingest | เปิดโครงการ พุทธกิจ 45 พรรษา — สร้าง wiki/buddha-career-45/ + หน้า overview timeline (ปักหมุดพรรษา 1 + ปรินิพพานจาก wiki, เว้นช่องว่างรอแหล่งพุทธประวัติ); ลงทะเบียน index
+
+## [2026-06-24] ingest | Timeline of Buddha ๔๕ พรรษา (สมปอง มุทิโต) — ดาวน์โหลด PDF เข้า raw/, สร้างหน้า source + เขียนหน้า buddha-career-45 เต็มครบพรรษา 1–45 + ปรินิพพาน (กำกับชั้นพุทธประวัติ/อรรถกถา, mark พรรษา 7 อภิธรรมดาวดึงส์เป็นมติถกเถียง); ลงทะเบียน index 2 หมวด
+
+## [2026-06-24] ingest | แตกหน้าย่อยรายพรรษา buddha-career-45 — สร้าง 27 หน้า (pansa-00 ถึง pansa-45 + รวม 21-37, 39-42) มี nav prev/next, แปลง overview เป็นสารบัญ
+
+## [2026-06-24] ingest | เก็บงานต่อ buddha-career-45 — โยงทศชาติไปหน้า dasajati-page เดิม (ไม่สร้างซ้ำ), สร้าง 3 หน้าที่ขาด (อาทิตตปริยายสูตร/โอวาทปาติโมกข์/มงคล 38), แก้ลิงก์ชื่อไม่ตรงไฟล์ 5 จุด (rahulovada→cularahulovada, metta-sutta→metta, bhaddekaratta→bhaddekaratta-4, alavaka→alavaka-yakkha/hatthaka); ตรวจ link เหลือ redlink เดียว paritta
+
+## [2026-06-24] lint | สร้างหน้า paritta (ปริตร) ปิด redlink สุดท้ายของ buddha-career-45 — โยงรตน/เมตต/มงคล/มหาสมัย/อาฏานาฏิย/โพชฌงค์
