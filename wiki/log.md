@@ -407,3 +407,25 @@ redlink: bodhipakkhiya-37, avijja, anupubbasikkha, gopaka-moggallana, samanuddes
 ## [2026-06-23] ingest | ชาดก (เล่ม 10, vol-55–64, 547 ชาดก) + ทศชาติ (มหานิบาต) — split-model 2 หน้า; Sonnet verify ทศชาติ vol-63–64 (#8=มหานารทกัสสป). + สร้าง parami-10. Opus แก้ slug niraya + typo vessantara
 ## [2026-06-23] ingest | นิทเทส(11,vol-65–67) + ปฏิสัมภิทามรรค(12,vol-68–69) + อปทาน(13,vol-70–72) + พุทธวงศ์(14,vol-73) — split-model 4 หน้า. 🎉 จบขุททกนิกาย (14 คัมภีร์ใน raw; จริยาปิฎกไม่มีในชุดนี้) = จบพระสุตตันตปิฎกครบ 5 นิกาย!
 ## [2026-06-23] lint | เก็บ redlink หลังจบขุททก: สร้าง dhamma(พระธรรม)/asubha/lobha + normalize dhamma(ธรรม)→(พระธรรม), vipassana→samatha-vipassana. redlink ≥4: 5→1 (เหลือ vepacitti-sutta-page = สูตรย่อย), รวม 333→328
+
+## [2026-06-23] ingest | พระวินัยปิฎก: ปาราชิก 4 (มหาวิภังค์ vol-01–02)
+## [2026-06-23] ingest | พระวินัย: สังฆาทิเสส 13 (มหาวิภังค์ vol-03) [Sonnet ร่าง/Opus ตรวจ]
+## [2026-06-23] ingest | พระวินัย: อนิยต 2 + นิสสัคคิยปาจิตตีย์ 30 (มหาวิภังค์ vol-03) [Sonnet ร่าง/Opus ตรวจ]
+## [2026-06-23] ingest | พระวินัย: ปาจิตตีย์ 92 + ปาฏิเทสนียะ 4 + เสขิยะ 75 + อธิกรณสมถะ 7 (vol-04) = จบมหาวิภังค์ฝ่ายภิกษุ 227 สิกขาบท [Sonnet ร่าง×2/Opus ตรวจ]
+## [2026-06-23] ingest | พระวินัย: ภิกขุนีวิภังค์ (vol-05, ภาพรวม สิกขาบทภิกษุณี 311) [Sonnet ร่าง/Opus ตรวจ]
+## [2026-06-23] ingest | พระวินัย: มหาวรรค (vol-06–07, ภาพรวม 10 ขันธกะ) [Sonnet ร่าง/Opus ตรวจ]
+## [2026-06-23] ingest | พระวินัย: จุลวรรค (vol-08–09, 12 ขันธกะ) + ปริวาร (vol-10) = 🎉 จบพระวินัยปิฎกครบ vol 1-10 [Sonnet ร่าง/Opus ตรวจ]
+## [2026-06-23] lint | พระวินัย: สร้างหน้า redlink บ่อย — hub vinaya-pitaka/mahavibhanga/patimokkha + บุคคล ฉัพพัคคีย์/อุปนันท์/สัตตรสวัคคีย์ (6 หน้า)
+## [2026-06-23] lint | สร้าง bhikkhuni (ภิกษุณี) ปิด redlink + โยงครุธรรม 8/มหาปชาบดี
+## [2026-06-23] lint | สร้าง garudhamma-8 (ครุธรรม 8) จากแหล่ง vol-09 ข้อ ๕๑๖–๕๑๗
+## [2026-06-23] lint | สร้างหน้าบุคคลวินัย 5: ทัพพมัลลบุตร/เมตติยะ-ภุมมชกะ/ปัญจวัคคีย์/ถุลลนันทา/สุนทรีนันทา
+## [2026-06-23] lint | สร้าง uposatha (อุโบสถ) + adhikarana-4 (อธิกรณ์ 4) ปิด redlink ≥2 ครบ
+## [2026-06-23] lint | สร้าง visakha-migaramata = ปิด redlink วินัย ≥2 ครบทั้งหมด
+## [2026-06-23] lint | สร้าง concept วินัย 6 (อุปสมบท/เข้าพรรษา/ปวารณา/กฐิน/อุโบสถ-มี/มักน้อยสันโดษ/อธิกรณ์4) + บุคคล 9 (อริฏฐะ/จูฬปันถก/หัตถกศากยบุตร/ปิลินทวัจฉ/สาคตะ/โสณโกฬิวิสะ/อุปเสน/เวฬัฏฐสีส/ยสะ)
+## [2026-06-23] lint | สร้าง chabbaggiya-bhikkhuni + delink มหาขันธกะ = ปิด redlink วินัยครบ 0 ค้าง
+## [2026-06-23] lint | แก้ลิงก์ slug ผิด (กลุ่ม C): bhikkhunivibhanga→bhikkhuni-vibhanga + sangiti-sutta-page เติมวงเล็บไทย (5 ไฟล์)
+## [2026-06-24] lint | กลุ่ม A: merge+ลบหน้าซ้ำ 2 คู่ที่สร้างเอง — เก็บ panchavaggiya/adhikaranasamatha-7(vinaya), ลบ pancavaggiya/adhikarana-samatha-7, repoint ลิงก์+dedup index
+## [2026-06-24] lint | กลุ่ม A ครบ: merge+ลบหน้าซ้ำเดิม 4 คู่ (มหานาม/โกฏฐิกะ/โมคคัลลานะ/กกุสันธะ) repoint 22 ไฟล์ + dedup index
+## [2026-06-24] lint | กลุ่ม F: สร้าง concept redlink 8 หน้า (suttanta-pitaka/abhidhamma/parinibbana/kama/yoniso-manasikara/kayagatasati/anussati-10/bala-5)
+## [2026-06-24] lint | กลุ่ม B: ลบไฟล์ขยะ 0-byte ที่ root 10 ไฟล์ (shadow หน้าจริง/redlink) + repoint kosala-samyutta→ปฐมวรรค. sammappadhana-4 ลิงก์เด้งไปหน้าจริงใน dhamma แล้ว
+## [2026-06-24] lint | กลุ่ม D: เติม index 34 หน้าที่ขาด (persons/dhamma/vinaya/places) → หน้าเนื้อหาทุกหน้าอยู่ใน index ครบ (missing=0)

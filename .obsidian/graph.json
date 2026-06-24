@@ -1,12 +1,19 @@
 {
   "collapse-filter": false,
-  "search": "-path:raw",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "path:vinaya",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
+      }
+    },
     {
       "query": "file:buddha",
       "color": {
@@ -53,13 +60,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.325,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.366232638888889,
-  "repelStrength": 8.13715277777778,
-  "linkStrength": 0.14453125,
-  "linkDistance": 223,
-  "scale": 0.08417495547317796,
+  "centerStrength": 0.525607638888889,
+  "repelStrength": 7.5,
+  "linkStrength": 0.486805555555556,
+  "linkDistance": 250,
+  "scale": 0.17911645685630045,
   "close": true
 }

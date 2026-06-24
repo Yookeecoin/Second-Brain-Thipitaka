@@ -1,3 +1,10 @@
+# OpenWolf
+
+@.wolf/OPENWOLF.md
+
+This project uses OpenWolf for context management. Read and follow .wolf/OPENWOLF.md every session. Check .wolf/cerebrum.md before generating code. Check .wolf/anatomy.md before reading files.
+
+
 # Second Brain — พระไตรปิฎก Wiki
 
 **สิ่งนี้คืออะไร:** knowledge base ส่วนตัวเรื่องพระไตรปิฎก (Tipiṭaka / พระไตรปิฎก) ที่ LLM เป็นคนสร้างและดูแลให้ทั้งหมด ผู้ใช้เป็นคนหาแหล่ง (sources) อ่าน ตั้งคำถาม LLM เป็นคนสรุป เชื่อมโยง (cross-reference) จัดหมวด และ bookkeeping ทั้งหมด
