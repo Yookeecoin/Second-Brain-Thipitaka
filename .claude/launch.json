@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "patterngen",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "/Users/wisitlee/Designer in Japan+mylarmelodies/patterngen-oss", "run", "dev"],
+      "port": 5173
+    },
+    {
+      "name": "art-graph",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8791", "--directory", "/Users/wisitlee/art-brain/graph"],
+      "port": 8791
+    },
+    {
+      "name": "brain-graph",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8792", "--directory", "/Users/wisitlee/second-brain/graph"],
+      "port": 8792
+    }
+  ]
+}

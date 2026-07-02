@@ -151,3 +151,14 @@ chronological, append-only ทุกบรรทัดขึ้นต้นด�
 - ไม่แต่งที่อ้างอิง ไม่แต่งพุทธพจน์ ถ้าไม่แน่ใจให้เขียน "ยังไม่ระบุที่มา / ต้องตรวจสอบ"
 - ก่อนลบหรือเขียนทับหน้าเดิมเยอะๆ ให้ถามผู้ใช้ก่อน
 - โยงลิงก์ `[[...]]` ให้เยอะ นี่คือคุณค่าหลักของ wiki
+
+---
+
+## GRAPH EXPLORER
+
+`scripts/build_graph.py` สแกน `wiki/*.md` (frontmatter `type:` + `[[wikilink]]`) แล้วสร้าง `graph/index.html` — กราฟ interactive (vis-network) แบบ self-contained เปิดตรงในเบราว์เซอร์ได้เลย (double-click หรือ `python3 -m http.server` ที่ `graph/`)
+
+- **รันใหม่ทุกครั้งที่ ingest เพิ่ม**: `python3 scripts/build_graph.py`
+- ฟีเจอร์: filter ตาม type, ค้นหา+auto-zoom, คลิก node เพื่อโฟกัสเครือข่าย (highlight เพื่อนบ้าน + panel แสดงรายละเอียด), redlink แสดงเป็นจุดประสีแดงจาง
+- กราฟใหญ่ (1200+ nodes) เลย์เอาต์แบบ physics ปิดอัตโนมัติหลัง stabilize เร็วขึ้น — แนะนำใช้ค้นหาแทนการไล่ดูภาพรวม
+- ไม่มี Walk/Path-Finder (ยังไม่ทำ — ถ้าต้องการเพิ่มทีหลังได้)
