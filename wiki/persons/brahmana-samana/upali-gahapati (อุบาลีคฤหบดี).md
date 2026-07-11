@@ -4,7 +4,7 @@ type: person
 pali: Upāli (gahapati)
 tags: [คฤหบดี, อุบาสก, อดีตสาวกนิครนถ์]
 sources: [thaimm-vol-20]
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

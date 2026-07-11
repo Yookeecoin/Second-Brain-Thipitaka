@@ -2,7 +2,7 @@
 title: พรรษา 7 — สวรรค์ชั้นดาวดึงส์
 type: person
 pitaka: "-"
-pali: -
+pali: "-"
 tags: [พุทธประวัติ, timeline, มติถกเถียง]
 sources: [timeline-of-buddha]
 created: 2026-06-24

@@ -4,7 +4,7 @@ type: person
 pali: Madhura-rājā Avantiputta
 tags: [กษัตริย์, มธุรา, อุบาสก]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

@@ -2,7 +2,7 @@
 title: พรรษา 44 — เชตวัน สาวัตถี
 type: person
 pitaka: "-"
-pali: -
+pali: "-"
 tags: [พุทธประวัติ, timeline]
 sources: [timeline-of-buddha]
 created: 2026-06-24

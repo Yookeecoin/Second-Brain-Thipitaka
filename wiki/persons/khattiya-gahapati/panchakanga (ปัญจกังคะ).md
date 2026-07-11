@@ -4,7 +4,7 @@ type: person
 pali: Pañcakaṅga (thapati)
 tags: [คฤหบดี, ช่างไม้, อุบาสก]
 sources: [thaimm-vol-20]
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

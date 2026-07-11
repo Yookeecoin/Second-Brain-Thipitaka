@@ -4,7 +4,7 @@ type: person
 pali: Dhānañjāni
 tags: [พราหมณ์, ราชคฤห์, พรหมโลก]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

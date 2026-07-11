@@ -4,7 +4,7 @@ type: dhamma
 pali: Pañca orambhāgiya-saṃyojanāni
 tags: [สังโยชน์, อริยบุคคล, กิเลส]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

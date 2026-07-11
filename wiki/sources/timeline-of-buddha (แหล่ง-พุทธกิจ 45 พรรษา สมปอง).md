@@ -2,7 +2,7 @@
 title: แหล่ง — Timeline of Buddha พุทธประวัติและพุทธกิจ ๔๕ พรรษา
 type: source
 pitaka: "-"
-pali: -
+pali: "-"
 tags: [แหล่ง, พุทธประวัติ, timeline]
 sources: []
 created: 2026-06-24

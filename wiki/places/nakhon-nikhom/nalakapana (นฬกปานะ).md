@@ -4,7 +4,7 @@ type: place
 pali: Naḷakapāna
 tags: [หมู่บ้าน, โกศล]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

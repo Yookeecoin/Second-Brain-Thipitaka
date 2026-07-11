@@ -2,7 +2,7 @@
 title: พุทธกิจ 45 พรรษา
 type: person
 pitaka: "-"
-pali: -
+pali: "-"
 tags: [พุทธประวัติ, timeline, hub]
 sources: [timeline-of-buddha]
 created: 2026-06-24

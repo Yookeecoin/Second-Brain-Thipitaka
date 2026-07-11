@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# พระไตรปิฎก (Tipiṭaka)\nแผนผังโครง 3 ปิฎก → นิกาย → สูตรหลัก","x":460,"y":-520,"width":400,"height":90,"color":"6"},
+		{"id":"vinaya","type":"text","text":"## วินัยปิฎก\nเล่ม 1-10 — ingest ครบ\nสิกขาบท · ระเบียบสงฆ์","x":-160,"y":-360,"width":300,"height":120,"color":"3"},
+		{"id":"abhidhamma","type":"text","text":"## อภิธรรมปิฎก\nเล่ม 74-91\nยังไม่ ingest (เว้นไว้)","x":1180,"y":-360,"width":320,"height":120,"color":"0"},
+		{"id":"dn","type":"text","text":"### ทีฆนิกาย\nสูตรขนาดยาว · 34 หน้า","x":-160,"y":-150,"width":280,"height":100,"color":"4"},
+		{"id":"mn","type":"text","text":"### มัชฌิมนิกาย\nสูตรขนาดกลาง · 152 หน้า","x":180,"y":-150,"width":280,"height":100,"color":"4"},
+		{"id":"sn","type":"text","text":"### สังยุตตนิกาย\nจัดกลุ่มตามหัวข้อ · 149 หน้า","x":520,"y":-150,"width":280,"height":100,"color":"4"},
+		{"id":"an","type":"text","text":"### อังคุตตรนิกาย\nจัดตามจำนวนหมวด · 31 หน้า","x":860,"y":-150,"width":280,"height":100,"color":"4"},
+		{"id":"kn","type":"text","text":"### ขุททกนิกาย\nหมวดเบ็ดเตล็ด · 17 หน้า","x":1200,"y":-150,"width":280,"height":100,"color":"4"},
+		{"id":"f_brahmajala","type":"file","file":"wiki/suttas/digha-nikaya/brahmajala-sutta-page (พรหมชาลสูตร).md","x":-160,"y":60,"width":280,"height":150},
+		{"id":"f_satipatthana","type":"file","file":"wiki/suttas/majjhima-nikaya/satipatthana-sutta-page (สติปัฏฐานสูตร).md","x":180,"y":60,"width":280,"height":150},
+		{"id":"f_dhammacakka","type":"file","file":"wiki/suttas/samyutta-nikaya/dhammacakkappavattana-sutta-page (ธัมมจักกัปปวัตตนสูตร).md","x":520,"y":60,"width":280,"height":150},
+		{"id":"f_dhammapada","type":"file","file":"wiki/suttas/khuddaka-nikaya/dhammapada-page (ธรรมบท).md","x":1200,"y":60,"width":280,"height":150},
+		{"id":"label_dhamma","type":"text","text":"**หลักธรรมหลัก**","x":-160,"y":320,"width":180,"height":60,"color":"6"},
+		{"id":"f_ariyasacca","type":"file","file":"wiki/dhamma/core-truth/ariyasacca-4 (อริยสัจ 4).md","x":380,"y":310,"width":280,"height":130},
+		{"id":"f_paticca","type":"file","file":"wiki/dhamma/core-truth/paticcasamuppada (ปฏิจจสมุปบาท).md","x":720,"y":310,"width":280,"height":130},
+		{"id":"sutta","type":"text","text":"## สุตตันตปิฎก\nเล่ม 11-73\nพระสูตร — 5 นิกาย","x":460,"y":-360,"width":360,"height":120,"color":"5"}
+	],
+	"edges":[
+		{"id":"e_t_vin","fromNode":"title","fromSide":"bottom","toNode":"vinaya","toSide":"top"},
+		{"id":"e_t_sut","fromNode":"title","fromSide":"bottom","toNode":"sutta","toSide":"top"},
+		{"id":"e_t_abh","fromNode":"title","fromSide":"bottom","toNode":"abhidhamma","toSide":"top"},
+		{"id":"e_s_dn","fromNode":"sutta","fromSide":"bottom","toNode":"dn","toSide":"top"},
+		{"id":"e_s_mn","fromNode":"sutta","fromSide":"bottom","toNode":"mn","toSide":"top"},
+		{"id":"e_s_sn","fromNode":"sutta","fromSide":"bottom","toNode":"sn","toSide":"top"},
+		{"id":"e_s_an","fromNode":"sutta","fromSide":"bottom","toNode":"an","toSide":"top"},
+		{"id":"e_s_kn","fromNode":"sutta","fromSide":"bottom","toNode":"kn","toSide":"top"},
+		{"id":"e_dn_f","fromNode":"dn","fromSide":"bottom","toNode":"f_brahmajala","toSide":"top"},
+		{"id":"e_mn_f","fromNode":"mn","fromSide":"bottom","toNode":"f_satipatthana","toSide":"top"},
+		{"id":"e_sn_f","fromNode":"sn","fromSide":"bottom","toNode":"f_dhammacakka","toSide":"top"},
+		{"id":"e_kn_f","fromNode":"kn","fromSide":"bottom","toNode":"f_dhammapada","toSide":"top"},
+		{"id":"e_dc_ar","fromNode":"f_dhammacakka","fromSide":"bottom","toNode":"f_ariyasacca","toSide":"top","label":"แสดงอริยสัจ"},
+		{"id":"e_ar_pa","fromNode":"f_ariyasacca","fromSide":"right","toNode":"f_paticca","toSide":"left","label":"สมุทัย = ปฏิจจ์"}
+	]
+}

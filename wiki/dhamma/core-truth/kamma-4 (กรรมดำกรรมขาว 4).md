@@ -4,7 +4,7 @@ type: dhamma
 pali: Cattāri kammāni (kaṇha-sukka)
 tags: [กรรม, วิบาก, มรรค]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

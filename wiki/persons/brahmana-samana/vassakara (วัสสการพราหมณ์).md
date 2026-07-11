@@ -4,7 +4,7 @@ type: person
 pali: Vassakāra
 tags: [พราหมณ์, มหาอำมาตย์, มคธ]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-20
 updated: 2026-06-20
 ---

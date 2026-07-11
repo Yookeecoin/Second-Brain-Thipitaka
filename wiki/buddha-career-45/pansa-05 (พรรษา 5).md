@@ -2,7 +2,7 @@
 title: พรรษา 5 — กูฏาคารศาลา เวสาลี
 type: person
 pitaka: "-"
-pali: -
+pali: "-"
 tags: [พุทธประวัติ, timeline]
 sources: [timeline-of-buddha]
 created: 2026-06-24

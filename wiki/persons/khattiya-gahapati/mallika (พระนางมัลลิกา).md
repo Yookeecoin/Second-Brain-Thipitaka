@@ -4,7 +4,7 @@ type: person
 pali: Mallikā
 tags: [พระมเหสี, โกศล, อุบาสิกา]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

@@ -1,7 +1,7 @@
 ---
 title: ความมักน้อย-สันโดษ (อัปปิจฉตา-สันตุฏฐิ)
 type: dhamma
-pitaka: -
+pitaka: "-"
 pali: Appicchatā / Santuṭṭhi
 tags: [หลักธรรม, ปฏิบัติ, มักน้อย, สันโดษ]
 created: 2026-06-23

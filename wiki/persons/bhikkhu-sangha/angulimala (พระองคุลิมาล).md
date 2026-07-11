@@ -4,7 +4,7 @@ type: person
 pali: Aṅgulimāla
 tags: [พระสาวก, อดีตโจร, พระอรหันต์]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

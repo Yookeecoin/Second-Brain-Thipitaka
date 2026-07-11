@@ -4,7 +4,7 @@ type: dhamma
 pali: Tīṇi kammāni
 tags: [กรรม, เจตนา, กาย-วาจา-ใจ]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

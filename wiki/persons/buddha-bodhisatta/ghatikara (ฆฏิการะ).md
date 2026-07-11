@@ -4,7 +4,7 @@ type: person
 pali: Ghaṭikāra
 tags: [อุบาสก, ช่างหม้อ, อนาคามี, สมัยพระกัสสปพุทธเจ้า]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

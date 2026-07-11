@@ -4,7 +4,7 @@ type: place
 pali: Mithilā
 tags: [นคร, วิเทหะ]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

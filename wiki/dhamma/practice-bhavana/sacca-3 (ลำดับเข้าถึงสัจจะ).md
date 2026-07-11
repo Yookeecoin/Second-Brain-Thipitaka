@@ -4,7 +4,7 @@ type: dhamma
 pali: Saccānurakkhaṇā / Saccānubodha / Saccānuppatti
 tags: [สัจจะ, ญาณวิทยา, ศรัทธา, การปฏิบัติ]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

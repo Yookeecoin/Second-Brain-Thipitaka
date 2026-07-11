@@ -4,7 +4,7 @@ type: place
 pali: Sāmagāma
 tags: [หมู่บ้าน, สักกะ]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-20
 updated: 2026-06-20
 ---

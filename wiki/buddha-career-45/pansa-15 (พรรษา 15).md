@@ -2,7 +2,7 @@
 title: พรรษา 15 — นิโครธาราม กบิลพัสดุ์
 type: person
 pitaka: "-"
-pali: -
+pali: "-"
 tags: [พุทธประวัติ, timeline]
 sources: [timeline-of-buddha]
 created: 2026-06-24

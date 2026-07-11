@@ -4,7 +4,7 @@ type: dhamma
 pali: Dasa asekhā dhammā
 tags: [อรหันต์, มรรค, สัมมัตตะ]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

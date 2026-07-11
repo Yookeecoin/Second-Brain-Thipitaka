@@ -439,3 +439,5 @@ redlink: bodhipakkhiya-37, avijja, anupubbasikkha, gopaka-moggallana, samanuddes
 ## [2026-06-24] ingest | เก็บงานต่อ buddha-career-45 — โยงทศชาติไปหน้า dasajati-page เดิม (ไม่สร้างซ้ำ), สร้าง 3 หน้าที่ขาด (อาทิตตปริยายสูตร/โอวาทปาติโมกข์/มงคล 38), แก้ลิงก์ชื่อไม่ตรงไฟล์ 5 จุด (rahulovada→cularahulovada, metta-sutta→metta, bhaddekaratta→bhaddekaratta-4, alavaka→alavaka-yakkha/hatthaka); ตรวจ link เหลือ redlink เดียว paritta
 
 ## [2026-06-24] lint | สร้างหน้า paritta (ปริตร) ปิด redlink สุดท้ายของ buddha-career-45 — โยงรตน/เมตต/มงคล/มหาสมัย/อาฏานาฏิย/โพชฌงค์
+
+## [2026-06-24] ingest | canvas พุทธกิจ 45 พรรษา (timeline) — สร้าง buddhakij-timeline.canvas ร้อย hub+pansa 0–45 (29 nodes/27 edges)

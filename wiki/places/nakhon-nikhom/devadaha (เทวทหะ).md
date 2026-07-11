@@ -4,7 +4,7 @@ type: place
 pali: Devadaha
 tags: [นิคม, สักกะ]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-20
 updated: 2026-06-20
 ---

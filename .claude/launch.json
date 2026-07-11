@@ -2,6 +2,12 @@
   "version": "0.0.1",
   "configurations": [
     {
+      "name": "imgprompt-studio",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8899", "--directory", "/Users/wisitlee/imgprompt-studio"],
+      "port": 8899
+    },
+    {
       "name": "patterngen",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["--prefix", "/Users/wisitlee/Designer in Japan+mylarmelodies/patterngen-oss", "run", "dev"],
@@ -12,6 +18,18 @@
       "runtimeExecutable": "python3",
       "runtimeArgs": ["-m", "http.server", "8791", "--directory", "/Users/wisitlee/art-brain/graph"],
       "port": 8791
+    },
+    {
+      "name": "suno-prompt-studio",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8893", "--directory", "/Users/wisitlee/suno-prompt-studio"],
+      "port": 8893
+    },
+    {
+      "name": "tipitaka-library",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd /Users/wisitlee/tipitaka-library && npx quartz build --serve --port 8794"],
+      "port": 8794
     },
     {
       "name": "brain-graph",

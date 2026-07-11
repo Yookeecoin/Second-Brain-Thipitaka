@@ -4,7 +4,7 @@ type: place
 pali: Thullakoṭṭhita
 tags: [นิคม, กุรุ]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

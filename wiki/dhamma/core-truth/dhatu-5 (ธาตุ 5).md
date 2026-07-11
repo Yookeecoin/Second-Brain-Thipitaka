@@ -4,7 +4,7 @@ type: dhamma
 pali: Pañca dhātuyo
 tags: [ธาตุ, รูป, อนัตตา, กรรมฐาน]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

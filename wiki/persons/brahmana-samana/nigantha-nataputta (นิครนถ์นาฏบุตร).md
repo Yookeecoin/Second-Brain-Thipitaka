@@ -4,7 +4,7 @@ type: person
 pali: Nigaṇṭha Nāṭaputta
 tags: [เจ้าลัทธิ, ครูทั้ง 6, ศาสนาเชน]
 sources: [thaimm-vol-20]
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

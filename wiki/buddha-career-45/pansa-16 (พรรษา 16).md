@@ -2,7 +2,7 @@
 title: พรรษา 16 — อัคคาฬวเจดีย์ อาฬวี
 type: person
 pitaka: "-"
-pali: -
+pali: "-"
 tags: [พุทธประวัติ, timeline]
 sources: [timeline-of-buddha]
 created: 2026-06-24

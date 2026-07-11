@@ -4,7 +4,7 @@ type: person
 pali: Maghadeva
 tags: [กษัตริย์, มิถิลา, อดีตชาติพระพุทธเจ้า, ธรรมราชา]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

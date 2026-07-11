@@ -4,7 +4,7 @@ type: dhamma
 pali: Sīlabbataparāmāsa
 tags: [สังโยชน์, ทิฏฐิ, ศีลพรต]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---

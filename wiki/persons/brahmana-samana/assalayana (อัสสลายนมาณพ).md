@@ -4,7 +4,7 @@ type: person
 pali: Assalāyana
 tags: [พราหมณ์, มาณพ, สาวัตถี]
 sources: []
-ref: -
+ref: "-"
 created: 2026-06-19
 updated: 2026-06-19
 ---
