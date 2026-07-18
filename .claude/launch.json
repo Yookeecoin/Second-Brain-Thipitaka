@@ -4,38 +4,90 @@
     {
       "name": "imgprompt-studio",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8899", "--directory", "/Users/wisitlee/imgprompt-studio"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8899",
+        "--directory",
+        "/Users/wisitlee/imgprompt-studio"
+      ],
       "port": 8899
     },
     {
       "name": "patterngen",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["--prefix", "/Users/wisitlee/Designer in Japan+mylarmelodies/patterngen-oss", "run", "dev"],
+      "runtimeArgs": [
+        "--prefix",
+        "/Users/wisitlee/Designer in Japan+mylarmelodies/patterngen-oss",
+        "run",
+        "dev"
+      ],
       "port": 5173
     },
     {
       "name": "art-graph",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8791", "--directory", "/Users/wisitlee/art-brain/graph"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8791",
+        "--directory",
+        "/Users/wisitlee/art-brain/graph"
+      ],
       "port": 8791
     },
     {
       "name": "suno-prompt-studio",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8893", "--directory", "/Users/wisitlee/suno-prompt-studio"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8893",
+        "--directory",
+        "/Users/wisitlee/suno-prompt-studio"
+      ],
       "port": 8893
     },
     {
       "name": "tipitaka-library",
       "runtimeExecutable": "sh",
-      "runtimeArgs": ["-c", "cd /Users/wisitlee/tipitaka-library && npx quartz build --serve --port 8794"],
+      "runtimeArgs": [
+        "-c",
+        "cd /Users/wisitlee/tipitaka-library && npx quartz build --serve --port 8794"
+      ],
       "port": 8794
     },
     {
       "name": "brain-graph",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8792", "--directory", "/Users/wisitlee/second-brain/graph"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8792",
+        "--directory",
+        "/Users/wisitlee/second-brain/graph"
+      ],
       "port": 8792
+    },
+    {
+      "name": "i2v-studio",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "/Users/wisitlee/i2v-studio/app.py"
+      ],
+      "port": 8866
+    },
+    {
+      "name": "sfx-studio",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8877",
+        "--directory",
+        "/Users/wisitlee/sfx-studio"
+      ],
+      "port": 8877
     }
   ]
 }
