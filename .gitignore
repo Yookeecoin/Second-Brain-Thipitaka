@@ -10,3 +10,6 @@ export/
 # เครื่องมือ context/token (เฉพาะเครื่อง ไม่เผยแพร่)
 .wolf/
 .serena/
+
+# permission ของ Claude Code — เฉพาะเครื่อง โตทุก session ไม่ต้องแชร์
+.claude/settings.local.json
